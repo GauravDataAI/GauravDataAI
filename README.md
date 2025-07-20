@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋  
+### B.Tech (CSE + Data Science) Student at JUET Guna  
 
-<!--
-**GauravDataAI/GauravDataAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 **Lateral Entry Student (2nd Year)** in **CSE + Data Science** at JUET Guna  
+- 🌱 Currently **learning programming and core Data Science concepts**  
+- 💡 Interested in **Data Analysis, AI, and Business Intelligence**  
+- 🎯 **Goal:** Build skills step by step and secure a **6–8 LPA job** as a **Data Analyst / BI Engineer** by 2028  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📘 What I'm Working On
+- **Learning:** Python (Programming Basics)  
+- **Exploring:** How Data Science works (Analytics, SQL, Visualizations)  
+- **Planning:** My first beginner-friendly projects for GitHub  
+
+---
+
+### 🔍 My Focus
+- Build a **solid foundation in coding and data skills**  
+- Start with **small, practical projects** (dashboards, analysis tasks)  
+- Gradually move toward **AI/ML and Advanced Data Science**
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** (Add your profile link)  
+- **Email:** gauravkevat30@gmail.com
