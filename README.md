@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** (Add your profile link)  
+- **LinkedIn:** (www.linkedin.com/in/gaurav-kevat)  
 - **Email:** gauravkevat30@gmail.com
